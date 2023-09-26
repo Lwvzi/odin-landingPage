@@ -126,3 +126,34 @@ figure{
 caption{
     color: #000
 }
+
+
+.outer-cont{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 100%;
+}
+
+
+.containerFour{
+    margin: 49px 21px 49px 21px;
+    background-color: #3881f6b8;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 21px 0 21px;
+    width: 70%;
+}
+
+
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: #1f2937;
+    height: 49px;
+}
+
+footer p{
+    color: white;
+    padding-top: 19px;
+}
